@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+
+# PyCharm
+.idea/
+
+# Bases y datos
+data_volunteers.json
+glove.6B.100d
+data/
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/

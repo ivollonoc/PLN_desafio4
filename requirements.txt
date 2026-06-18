@@ -1,0 +1,15 @@
+# Desafio 4 - CEIA NLP
+# Instalar con: pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+tensorflow
+keras
+beautifulsoup4
+gradio
+lxml
+gdown
